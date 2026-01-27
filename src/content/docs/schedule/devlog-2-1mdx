@@ -4,7 +4,19 @@ title: DevLog 2-1
 description: DevLog 2-1
 ---
 
-<div class="box-callout">
+:::caution[Github Actions]
+If you don't see your site check https://github.com/USERNAME/REPO/actions for issues.
+:::
 
+import { Icon } from '@astrojs/starlight/components';
+<Icon name="star" />  Learn more about [icons](https://starlight.astro.build/reference/icons/#all-icons)
 
-</div>
+import { Tabs, TabItem } from '@astrojs/starlight/components';
+<Tabs>
+  <TabItem label="no errors" icon="approve-check">
+    HOORAY! 
+  </TabItem>
+  <TabItem label="error" icon="error">
+    heartbreak. 
+  </TabItem>
+</Tabs>
