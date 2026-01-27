@@ -20,3 +20,24 @@ import { Tabs, TabItem } from '@astrojs/starlight/components';
     heartbreak. 
   </TabItem>
 </Tabs>
+
+<div class="box-callout">
+
+### DevLog 2-1 
+
+#### Create an Astro Starlight DevLog site
+
+Follow the [Astro Starlight](https://omundy.github.io/dig345-radical-software/tutorials/astro-starlight/) tutorial to create a JAMstack website with Astro.js. You will use this site to post DevLog entries to record your work throughout the semester. <IconTime>:40 min</IconTime>
+
+1. [Fork an Astro Starlight site](https://omundy.github.io/dig345-radical-software/tutorials/astro-starlight/#create-an-astro-starlight-site) and update project structure.
+1. Publish Astro Starlight using Github Actions [Repo here] (https://github.com/siqjulia/dig345-devlog)
+1. Add custom CSS to your theme
+1. Import and use an Astro component
+1. Continue customizing your site using the [Starlight Docs](https://starlight.astro.build/getting-started/). What I did: I added two tabs with icons to my site using the Starlight documentation under the tab section. 
+1. Add content into: `devlog-1-3.mdx` (the DevLog from the previous week)
+1. Add this file and `devlog-2-1.mdx` for today, and add content.
+1. Watch 🎬 Heydon Pickering [Why is everything binary?](https://www.youtube.com/watch?v=LbjxvvKEtyE). Post a reading response in the 2-1 DevLog per information in the [Assignments](./assignments).
+1. Write a reflection explaining what you did learned in this DevLog. Link to sources.
+1. Publish it and turn it in by posting the direct link to this DevLog on Moodle
+
+</div>
