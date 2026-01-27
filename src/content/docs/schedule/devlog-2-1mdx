@@ -23,9 +23,9 @@ import { Tabs, TabItem } from '@astrojs/starlight/components';
 
 <div class="box-callout">
 
-### DevLog 2-1 
+## DevLog 2-1 
 
-#### Create an Astro Starlight DevLog site
+### Create an Astro Starlight DevLog site
 
 Follow the [Astro Starlight](https://omundy.github.io/dig345-radical-software/tutorials/astro-starlight/) tutorial to create a JAMstack website with Astro.js. You will use this site to post DevLog entries to record your work throughout the semester. <IconTime>:40 min</IconTime>
 
@@ -41,3 +41,11 @@ Follow the [Astro Starlight](https://omundy.github.io/dig345-radical-software/tu
 1. Publish it and turn it in by posting the direct link to this DevLog on Moodle
 
 </div>
+
+## Reading Response to "Why is everything binary?" 
+
+1. The video is a comincal animation that first explains how computer binary works to then compare it to the binary thinking in our society. I think the video is trying to point out that in binary, each transistor can do a variation of up to 256 values, but humanity has chosen to organize as though we can all think with only one transistor. It offers examples like the gender binary, or designer/devloper, and left/right brain. 
+2. "One for thinking, but not about how to do the thing you are thinking about doing. And two, for doing, but not thinking about why the hell anyone would think this could be done." 
+3. I picked the quote above because it made me laugh but I also related to it. I find myself wanting to lean more toward the designer role because I'm not as good at coding. This brings me great anxiety because I have to go get a job soon. 
+4. Would you say that the industry is still like the binary in the video, or do you think jobs are trending toward wanting individuals to have both skillsets? 
+5. This is unrelated to my comments, but the mentions of Elon Musk reminded me of a project I made for Hacking, Remix, and Design when Elon Musk was still running "DOGE." Link [here] (https://www.icloud.com/shortcuts/9ab00888a8ff465784519712b7c2f2d5). It is a random email generator, because at the time they were asking people to email them with reports of government "fraud." I wanted to automate filling their inbox with junk. 
